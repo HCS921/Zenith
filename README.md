@@ -1,6 +1,6 @@
 # Zenith 
 
-Hi! This is **Zenith**. 
+Zenith is a very lightweight file explorer.
 
 I built this because I wanted to see if I could actually make a file explorer from scratch using nothing but pure C and DirectX 11. It's been a massive learning experience, but I want to be super clear: **this is a buggy passion project.**
 
