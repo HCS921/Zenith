@@ -4,8 +4,7 @@ Hi! This is **Zenith**.
 
 I built this because I wanted to see if I could actually make a file explorer from scratch using nothing but pure C and DirectX 11. It's been a massive learning experience, but I want to be super clear: **this is a buggy passion project.**
 
-It is definitely not a replacement for the real Windows File Explorer. It’s got quirks, it might crash if you have 10 million files, and the UI is still a bit "programmer-art" in places. But it was fun to build and I learned a ton about Win32, memory management, and why building a file explorer is actually really hard.
-
+It is definitely not a replacement for the real Windows File Explorer. It’s got quirks, it might crash if you have 10 million files, and the UI is still a bit "programmer-art" in places.
 ### Why does this exist?
 - I wanted to see how fast I could make filesystem indexing without using a heavy database.
 - Data visualization: I wanted a way to actually SEE where my disk space was going in a way that felt fast and responsive.
