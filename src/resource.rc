@@ -1,0 +1,5 @@
+#include <windows.h>
+
+// 1. Define the icon resource ID
+// We use 1 so it's the default icon Windows assigns to the .exe
+1 ICON "..\\assets\\folder_icon.ico"
