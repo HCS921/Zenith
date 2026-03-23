@@ -17,7 +17,7 @@ It is definitely not a replacement for the real Windows File Explorer. It’s go
 - **Search**: Since it has an index, searching for file names is pretty quick.
 
 ### How to run it
-If you're brave enough to try it, you'll need Visual Studio 2022. Just open a Developer Command Prompt, go to this folder, and run:
+If you're brave enough to try it either download the newest release or you'll need Visual Studio 2022. Just open a Developer Command Prompt, go to this folder, and run:
 `scripts\build.bat`
 
 The app will be in the `build/` folder.
