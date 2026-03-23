@@ -1,4 +1,4 @@
-# Zenith (it's a passion project!)
+# Zenith 
 
 Hi! This is **Zenith**. 
 
