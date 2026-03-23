@@ -1,7 +1,0 @@
-remote: error: Trace: 7d8c8ba88d3cb5c2a65d268db93f9cc0608071606d0a5548d01f28cdd5d1e05f        
-remote: error: See https://gh.io/lfs for more information.        
-remote: error: File search_index.dat is 318.84 MB; this exceeds GitHub's file size limit of 100.00 MB        
-remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
-To https://github.com/HCS921/Zenith.git
- ! [remote rejected] main -> main (pre-receive hook declined)
-error: failed to push some refs to 'https://github.com/HCS921/Zenith.git'
